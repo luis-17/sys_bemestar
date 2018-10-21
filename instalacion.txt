@@ -1,0 +1,6 @@
+IMPORTANTE: 
+Configurar archivo app/config.js, en este archivo se tiene que poner el nombre de la carpeta raiz. 
+
+Configurar además los archivos: 
+/application/config/config.php
+/application/config/database.php
